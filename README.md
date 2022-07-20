@@ -5,7 +5,7 @@
 1. Install Node.js from https://nodejs.org/en/download/
 2. Run in Terminal
 ```
-  cd Magic8Ball-main
+  cd Magic8Ball
   npm install
   npm start
 ```
